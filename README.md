@@ -10,6 +10,6 @@ Eagle libraries created and used by Niklas Andersson/Skookum Synthesizers
 ..semi.lbr - Discrete semiconductors. Transistors, diodes etc.</br>
 ..switch.lbr - Switches</br>
 
-Note:
+<b>Note:</b><br>
 Some parts are untested.
 
