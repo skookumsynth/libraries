@@ -11,6 +11,6 @@ Eagle libraries created and used by Niklas Andersson/Skookum Synthesizers
 ..switch.lbr - Switches</br>
 
 <b>Note:</b><br>
-Packages use layer 113 as an "interface" layer to assist with front panel layouts.
-Some parts are untested.
+* Packages use layer 113 as an "interface" layer to assist with front panel layouts.
+* Some parts are untested.
 
